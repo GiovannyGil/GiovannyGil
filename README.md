@@ -23,7 +23,7 @@
 - 🌱 I’m Web Developer, FullStack - DataBase - Data
 - 📫 How to reach me:
   - Email: arvey950@gmail.com or giovannychica03@gmail.com
-  - Linkedin: https://www.linkedin.com/in/giovanny-gil-187191212/
+  - Linkedin: www.linkedin.com/in/giovannyc-gil
 
 
 
