@@ -2,12 +2,16 @@
   <a target="_blank" align="center">
   <img align="left" height="50" width="50" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJ0NWMwN3luNGZ6c3NiMXZ0bnNmOG1wZWRoYjhkMG43ZmhrN2lmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif">
 </a>
-  Hi there 👋, I'm <a href="#" target="blank"> Giovanny
-  <a target="_blank" align="center">
+  Hi there 👋
   <img align="right" height="50" width="50" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJ0NWMwN3luNGZ6c3NiMXZ0bnNmOG1wZWRoYjhkMG43ZmhrN2lmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif">
 </a>
   </a>
 </h1>
+
+<img width="1834" alt="Banner GITHUB" src="https://github.com/GiovannyGil/GiovannyGil/assets/102708414/171ac784-abfb-4336-bba3-55600231cbcd">
+
+
+
 <h3 align="center">A passionate WEB Developer from Medellín Colombia</h3>
 
 <a target="_blank" align="center">
@@ -18,7 +22,7 @@
 
 - 🌱 I’m Web Developer, FullStack - DataBase - Data
 - 📫 How to reach me:
-  - Email: arvey950@gmail.com
+  - Email: arvey950@gmail.com or giovannychica03@gmail.com
   - Linkedin: https://www.linkedin.com/in/giovanny-gil-187191212/
 
 
