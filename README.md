@@ -24,7 +24,8 @@
 - 📫 How to reach me:
   - Email: arvey950@gmail.com or giovannychica03@gmail.com
   - Linkedin: www.linkedin.com/in/giovannyc-gil
-  - Portfolio web: giovannydev.netlify.app
+  - Portfolio web: [giovannydev.netlify.app](https://giovannydev.netlify.app/)
+  
 
 
 
