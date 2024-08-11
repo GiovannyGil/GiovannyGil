@@ -12,7 +12,7 @@
 
 
 
-<h3 align="center">A passionate WEB Developer from Medellín Colombia</h3>
+<h3 align="center">A passionate WEB Developer and Movil from Medellín Colombia</h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
@@ -20,7 +20,7 @@
 
 <h2>About ME!</h2>
 
-- 🌱 I’m Web Developer, FullStack - DataBase - Data
+- 🌱 I’m Web Developer, Movil
 - 📫 How to reach me:
   - Email: arvey950@gmail.com or giovannychica03@gmail.com
   - Linkedin: www.linkedin.com/in/giovannyc-gil
@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,nodejs,express,angular,nestjs,mongodb,py,django,laravel,mysql,github,vscode,discord,figma,postman&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,nodejs,express,angular,nestjs,mongodb,py,django,kotlin,mysql,github,vscode,discord,figma,postman&perline=10" />
   </a>
 </p>
 
