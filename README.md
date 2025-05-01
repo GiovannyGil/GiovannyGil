@@ -2,7 +2,7 @@
   <a target="_blank" align="center">
   <img align="left" height="50" width="50" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJ0NWMwN3luNGZ6c3NiMXZ0bnNmOG1wZWRoYjhkMG43ZmhrN2lmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif">
 </a>
-  Hi there 👋
+  ¡Bienvenid@! 👋
   <img align="right" height="50" width="50" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJ0NWMwN3luNGZ6c3NiMXZ0bnNmOG1wZWRoYjhkMG43ZmhrN2lmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif">
 </a>
   </a>
@@ -12,26 +12,26 @@
 
 
 
-<h3 align="center">A passionate WEB Developer and Movil from Medellín Colombia</h3>
+<h3 align="center">Apasionado Desarrollador WEB y Móvil en Medellín, Colombia
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-<h2>About ME!</h2>
+<h2>Sobre mi!</h2>
 
-- 🌱 I’m Web Developer, Movil
-- 📫 How to reach me:
-  - Email: arvey950@gmail.com or giovannychica03@gmail.com
+- 🌱 Programador WEB y Móvil
+- 📫 Cómo ponerse en contacto conmigo:
+  - Correo: arvey950@gmail.com o giovannychica03@gmail.com
   - Linkedin: www.linkedin.com/in/giovannyc-gil
-  - Portfolio web: [giovannydev.netlify.app](https://giovannydev.netlify.app/)
+  - Portafolio web: [giovannydev.netlify.app](https://giovannydev.netlify.app/)
   
 
 
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Leguages, Techologies and Tools</h2></summary>
+    <summary><h2 style="display: inline-block">Leguajes, Tecologías y Herramientas</h2></summary>
   </ul>
 </div>
 
