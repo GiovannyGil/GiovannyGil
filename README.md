@@ -14,7 +14,7 @@
 
 <h3 align="center">Apasionado Desarrollador WEB y Móvil en Medellín, Colombia
 
-<a target="_blank" align="center">
+<a target="_blank" align="center" >
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
@@ -31,7 +31,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Leguajes, Tecologías y Herramientas</h2></summary>
+    <summary><h2 style="display: inline-block">Lenguajes, Tecnologías y Herramientas</h2></summary>
   </ul>
 </div>
 
