@@ -22,7 +22,7 @@
 
 - 🌱 Programador WEB y Móvil
 - 📫 Cómo ponerse en contacto conmigo:
-  - Correo: arvey950@gmail.com o giovannychica03@gmail.com
+  - Correo: Arvey950@gmail.com o GiovannyDev01@gmail.com
   - Linkedin: www.linkedin.com/in/giovannyc-gil
   - Portafolio web: [giovannydev.netlify.app](https://giovannydev.netlify.app/)
   
@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,angular,nestjs,mongodb,py,kotlin,github,vscode,discord,figma,postman&perline=16" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,angular,react,nestjs,mongodb,py,kotlin,flutter,github,vscode,discord,figma,postman&perline=9" />
   </a>
 </p>
 
