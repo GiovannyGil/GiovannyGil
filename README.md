@@ -15,7 +15,7 @@
 <h3 align="center">Apasionado Desarrollador WEB y Móvil en Medellín, Colombia
 
 <a target="_blank" align="center" >
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="250" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 <h2>Sobre mi!</h2>
