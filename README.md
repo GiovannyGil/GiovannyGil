@@ -12,7 +12,7 @@
 
 
 
-<h3 align="center">Apasionado Desarrollador WEB y Móvil en Medellín, Colombia
+<h3 align="center">Desarrollador WEB y Móvil, de Medellín, Antioquia.
 
 <a target="_blank" align="center" >
   <img align="right" top="500" height="250" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
